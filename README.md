@@ -25,3 +25,8 @@ Um projeto simples em **Java** que simula operações básicas de uma conta banc
 1. Clone o repositório:
    ```bash
    git clone 
+2. Abra no seu IDE preferido (NetBeans, IntelliJ, Eclipse).
+
+3. Compile e execute a classe GerenciaBanco.java.
+
+4. Siga as instruções no console para interagir com o sistema.
